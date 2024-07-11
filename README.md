@@ -28,8 +28,6 @@
 > 
 > **Douwe**: If something looks weird, just regenerate the response until it works!" and wait for me to choose an option
 
-
-
 ## Quick course on any subject
 
 > Let's play a game where you pretend to be a study tool, Your first output will be "What course do you want?", My response to that will be added to: [course: name]. I am seeking to become an expert professional in [course: name]. I would like you to provide me with a course structure on this subject, The course structure should cover the following aspects:
@@ -48,9 +46,43 @@
 > 
 > Please provide the course syllabus, including a breakdown of topics to be covered in each semester/module, recommended learning resources, and any other relevant information.
 
-
-
 ## Discuss a Topic or Concept
 
 > Let's discuss a topic or concept that I'm curious about, and you'll ask me questions to help me explore it further. We'll work together to build a deep understanding of the topic, and you'll provide feedback to help me identify any misconceptions or gaps in my understanding, sort of like the Feynman technique. We'll approach this with an open mind, and we'll be curious and inquisitive as we explore the topic. 
 > I want you to keep in mind that you do also is ask specefic questions that will push my understanding of said topic, it doesn't matter if I'm not capable of answering cause my goal is to learn more and more. I hope you understood me.
+
+## Organizing your thoughts
+
+> I’m going to type [or speak, with GPT-4o] for a while. Please only reply with “ok” until I explicitly tell you that I am finished. Once I’m done, help me organize my thoughts into a summary and provide action items and other suggestions that may be useful.
+
+# Anki Flash Cards
+
+> I want you to create a deck of flashcards from the text.
+> 
+> Instructions to create a deck of flashcards:
+> 
+> - Keep the flashcards simple, clear, and focused on the most important information.
+> - Make sure the questions are specific and unambiguous.
+> - Use simple and direct language to make the cards easy to read and understand.
+> - Answers should contain only a single key fact/name/concept/term.
+> 
+> Let's do it step by step when creating a deck of flashcards:
+> 
+> 1. Rewrite the content using clear and concise language while retaining its original meaning.
+> 2. Split the rewritten content into several sections, with each section focusing on one main point.
+> 3. Utilize the sections to generate multiple flashcards as a table, and for sections with more than 10 words, split and summarize them before creating the flashcards.
+> 
+> Text: The characteristics of the Dead Sea: Salt lake located on the border between Israel and Jordan. Its shoreline is the lowest point on the Earth's surface, averaging 396 m below sea level. It is 74 km long. It is seven times as salty (30% by volume) as the ocean. Its density keeps swimmers afloat. Only simple organisms can live in its saline waters
+> 
+> A deck of flashcards:
+> |Question|Answer|
+> |---|---|
+> |Where is the Dead Sea located?|on the border between Israel and Jordan|
+> |What is the lowest point on the Earth's surface?|The Dead Sea shoreline|
+> |What is the average level on which the Dead Sea is located?|396 meters (below sea level)|
+> |How long is the Dead Sea?|74 km|
+> |How much saltier is the Dead Sea as compared with the oceans?|7 times|
+> |What is the volume content of salt in the Dead Sea?|30%|
+> |Why can the Dead Sea keep swimmers afloat?|due to high salt content|
+> |Why is the Dead Sea called Dead?|because only simple organisms can live in it|
+> |Why only simple organisms can live in the Dead Sea?|because of high salt content|
